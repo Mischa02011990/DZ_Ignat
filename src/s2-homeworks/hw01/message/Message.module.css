@@ -1,0 +1,98 @@
+.message { /*сообщение справа*/
+    display: flex;
+    flex-direction: column;
+    margin-top: 41px;
+}
+
+.imageAndText {
+    display: flex;
+    flex-direction: row-reverse;
+    margin-top: 21px;
+    margin-right: 71px;
+}
+
+.imageAndText img {
+    display: flex;
+    width: 48px;
+    height: 48px;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+
+.text {
+    display: flex;
+    width: 527px;
+    height: 60px;
+    border-radius: 15px 15px 0px 15px;
+    gap: 10px;
+    background: #0066CC;
+    flex-direction: column;
+    align-items: end;
+
+
+    padding-right: 10px;
+    margin-top: 10px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.text:after {
+    display: flex;
+    width: 527px;
+    height: 60px;
+    border-radius: 15px 15px 0px 15px;
+    gap: 10px;
+    background: #0066CC;
+
+    flex-direction: column;
+
+    margin-top: 10px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.name {
+    display: flex;
+    margin-left: 100px;
+    margin-top: 7px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+
+    color: #FFFFFF;
+}
+
+.messageText {
+    display: flex;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FFFFFF;
+}
+
+.time {
+    align-self: flex-end;
+    margin-top: 10px;
+    margin-left: 10px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    width: 26px;
+    height: 12px;
+    font-weight: 600;
+    font-size: 10px;
+    line-height: 12px;
+    margin-top: 1px;
+    margin-right: 82px;
+    color: #000000;
+}

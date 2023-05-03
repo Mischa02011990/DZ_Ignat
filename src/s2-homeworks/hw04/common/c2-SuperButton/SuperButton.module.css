@@ -1,0 +1,62 @@
+.button {
+    position: relative;
+    margin: 10px;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.button:disabled {
+    color: #005500;
+    cursor: auto;
+}
+
+.default {
+    width: 132px;
+    height: 30px;
+
+    top: 1465px;
+
+    Left: 574px;
+
+    radius: 3px;
+
+    padding: 5px 24px 5px 24px;
+
+    gap: 10px;
+    outline: none;
+    background: #0066CC;
+    color: #99ff99;
+}
+
+.red {
+    color: #dd3355;
+}
+
+.red:active {
+}
+
+.red:hover {
+}
+
+.disabled {
+    color: #004D99;
+}
+
+.secondary {
+}
+
+.default:hover {
+}
+
+.secondary:hover {
+}
+
+.default:active {
+}
+
+.secondary:active {
+}
+
+
+
+
