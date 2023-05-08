@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/DZ_Ignat/static/css/main.6e5195d4.css",
-    "main.js": "/DZ_Ignat/static/js/main.92c6f346.js",
+    "main.css": "/DZ_Ignat/static/css/main.c6e9440d.css",
+    "main.js": "/DZ_Ignat/static/js/main.6e3104ea.js",
     "static/js/787.15a81083.chunk.js": "/DZ_Ignat/static/js/787.15a81083.chunk.js",
+    "static/media/avatar.png": "/DZ_Ignat/static/media/avatar.d947cb9d0d13765666b6.png",
+    "static/media/404.svg": "/DZ_Ignat/static/media/404.9ec31c0ba8d95b0480272e46af98c955.svg",
+    "static/media/closeOutline.svg": "/DZ_Ignat/static/media/closeOutline.b64ba402fac8a549bc2de97e9cf84a61.svg",
     "static/media/checked.svg": "/DZ_Ignat/static/media/checked.b75ca55e8759862b4083.svg",
     "index.html": "/DZ_Ignat/index.html",
-    "main.6e5195d4.css.map": "/DZ_Ignat/static/css/main.6e5195d4.css.map",
-    "main.92c6f346.js.map": "/DZ_Ignat/static/js/main.92c6f346.js.map",
+    "static/media/burger.svg": "/DZ_Ignat/static/media/burger.700e416f7bfe3697f96b36c778d25355.svg",
+    "main.c6e9440d.css.map": "/DZ_Ignat/static/css/main.c6e9440d.css.map",
+    "main.6e3104ea.js.map": "/DZ_Ignat/static/js/main.6e3104ea.js.map",
     "787.15a81083.chunk.js.map": "/DZ_Ignat/static/js/787.15a81083.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6e5195d4.css",
-    "static/js/main.92c6f346.js"
+    "static/css/main.c6e9440d.css",
+    "static/js/main.6e3104ea.js"
   ]
 }
